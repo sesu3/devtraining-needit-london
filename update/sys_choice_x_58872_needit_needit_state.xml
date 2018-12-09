@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="state" table="x_58872_needit_needit" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>保留中</label>
+            <language>ja</language>
+            <name>x_58872_needit_needit</name>
+            <sequence>0</sequence>
+            <sys_created_by>f018037</sys_created_by>
+            <sys_created_on>2018-12-08 12:50:01</sys_created_on>
+            <sys_domain>849bf3d3dbca23007cf69026db96194d</sys_domain>
+            <sys_domain_path>!!!/!!)/</sys_domain_path>
+            <sys_id>fa9fbe3cdb9ee3007cf69026db96198e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>f018037</sys_updated_by>
+            <sys_updated_on>2018-12-08 12:50:01</sys_updated_on>
+            <value>-5</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Requested</label>
+            <language>en</language>
+            <name>x_58872_needit_needit</name>
+            <sequence>0</sequence>
+            <sys_created_by>f018037</sys_created_by>
+            <sys_created_on>2018-12-08 12:50:00</sys_created_on>
+            <sys_domain>849bf3d3dbca23007cf69026db96194d</sys_domain>
+            <sys_domain_path>!!!/!!)/</sys_domain_path>
+            <sys_id>f69fbe3cdb9ee3007cf69026db961984</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>f018037</sys_updated_by>
+            <sys_updated_on>2018-12-08 12:50:00</sys_updated_on>
+            <value>13</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>オープン</label>
+            <language>ja</language>
+            <name>x_58872_needit_needit</name>
+            <sequence>1</sequence>
+            <sys_created_by>f018037</sys_created_by>
+            <sys_created_on>2018-12-08 12:50:01</sys_created_on>
+            <sys_domain>849bf3d3dbca23007cf69026db96194d</sys_domain>
+            <sys_domain_path>!!!/!!)/</sys_domain_path>
+            <sys_id>769fbe3cdb9ee3007cf69026db961990</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>f018037</sys_updated_by>
+            <sys_updated_on>2018-12-08 12:50:01</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Awaiting Approval</label>
+            <language>en</language>
+            <name>x_58872_needit_needit</name>
+            <sequence>1</sequence>
+            <sys_created_by>f018037</sys_created_by>
+            <sys_created_on>2018-12-08 12:50:00</sys_created_on>
+            <sys_domain>849bf3d3dbca23007cf69026db96194d</sys_domain>
+            <sys_domain_path>!!!/!!)/</sys_domain_path>
+            <sys_id>769fbe3cdb9ee3007cf69026db961986</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>f018037</sys_updated_by>
+            <sys_updated_on>2018-12-08 12:50:00</sys_updated_on>
+            <value>14</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Approved</label>
+            <language>en</language>
+            <name>x_58872_needit_needit</name>
+            <sequence>2</sequence>
+            <sys_created_by>f018037</sys_created_by>
+            <sys_created_on>2018-12-08 12:50:01</sys_created_on>
+            <sys_domain>849bf3d3dbca23007cf69026db96194d</sys_domain>
+            <sys_domain_path>!!!/!!)/</sys_domain_path>
+            <sys_id>329fbe3cdb9ee3007cf69026db961988</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>f018037</sys_updated_by>
+            <sys_updated_on>2018-12-08 12:50:01</sys_updated_on>
+            <value>15</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>処理中の作業</label>
+            <language>ja</language>
+            <name>x_58872_needit_needit</name>
+            <sequence>2</sequence>
+            <sys_created_by>f018037</sys_created_by>
+            <sys_created_on>2018-12-08 12:50:01</sys_created_on>
+            <sys_domain>849bf3d3dbca23007cf69026db96194d</sys_domain>
+            <sys_domain_path>!!!/!!)/</sys_domain_path>
+            <sys_id>fe9fbe3cdb9ee3007cf69026db961991</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>f018037</sys_updated_by>
+            <sys_updated_on>2018-12-08 12:50:01</sys_updated_on>
+            <value>2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Awaiting Feedback</label>
+            <language>en</language>
+            <name>x_58872_needit_needit</name>
+            <sequence>3</sequence>
+            <sys_created_by>f018037</sys_created_by>
+            <sys_created_on>2018-12-08 12:50:01</sys_created_on>
+            <sys_domain>849bf3d3dbca23007cf69026db96194d</sys_domain>
+            <sys_domain_path>!!!/!!)/</sys_domain_path>
+            <sys_id>fa9fbe3cdb9ee3007cf69026db961989</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>f018037</sys_updated_by>
+            <sys_updated_on>2018-12-08 12:50:01</sys_updated_on>
+            <value>16</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>完了してクローズ</label>
+            <language>ja</language>
+            <name>x_58872_needit_needit</name>
+            <sequence>3</sequence>
+            <sys_created_by>f018037</sys_created_by>
+            <sys_created_on>2018-12-08 12:50:01</sys_created_on>
+            <sys_domain>849bf3d3dbca23007cf69026db96194d</sys_domain>
+            <sys_domain_path>!!!/!!)/</sys_domain_path>
+            <sys_id>7a9fbe3cdb9ee3007cf69026db961993</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>f018037</sys_updated_by>
+            <sys_updated_on>2018-12-08 12:50:01</sys_updated_on>
+            <value>3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Closed Complete</label>
+            <language>en</language>
+            <name>x_58872_needit_needit</name>
+            <sequence>4</sequence>
+            <sys_created_by>f018037</sys_created_by>
+            <sys_created_on>2018-12-08 12:50:01</sys_created_on>
+            <sys_domain>849bf3d3dbca23007cf69026db96194d</sys_domain>
+            <sys_domain_path>!!!/!!)/</sys_domain_path>
+            <sys_id>b69fbe3cdb9ee3007cf69026db96198b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>f018037</sys_updated_by>
+            <sys_updated_on>2018-12-08 12:50:01</sys_updated_on>
+            <value>3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>未完了でクローズ</label>
+            <language>ja</language>
+            <name>x_58872_needit_needit</name>
+            <sequence>4</sequence>
+            <sys_created_by>f018037</sys_created_by>
+            <sys_created_on>2018-12-08 12:50:01</sys_created_on>
+            <sys_domain>849bf3d3dbca23007cf69026db96194d</sys_domain>
+            <sys_domain_path>!!!/!!)/</sys_domain_path>
+            <sys_id>f29fbe3cdb9ee3007cf69026db961995</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>f018037</sys_updated_by>
+            <sys_updated_on>2018-12-08 12:50:01</sys_updated_on>
+            <value>4</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>スキップしてクローズ</label>
+            <language>ja</language>
+            <name>x_58872_needit_needit</name>
+            <sequence>5</sequence>
+            <sys_created_by>f018037</sys_created_by>
+            <sys_created_on>2018-12-08 12:50:01</sys_created_on>
+            <sys_domain>849bf3d3dbca23007cf69026db96194d</sys_domain>
+            <sys_domain_path>!!!/!!)/</sys_domain_path>
+            <sys_id>7e9fbe3cdb9ee3007cf69026db961996</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>f018037</sys_updated_by>
+            <sys_updated_on>2018-12-08 12:50:01</sys_updated_on>
+            <value>7</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Withdraw</label>
+            <language>en</language>
+            <name>x_58872_needit_needit</name>
+            <sequence>5</sequence>
+            <sys_created_by>f018037</sys_created_by>
+            <sys_created_on>2018-12-08 12:50:01</sys_created_on>
+            <sys_domain>849bf3d3dbca23007cf69026db96194d</sys_domain>
+            <sys_domain_path>!!!/!!)/</sys_domain_path>
+            <sys_id>729fbe3cdb9ee3007cf69026db96198d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>f018037</sys_updated_by>
+            <sys_updated_on>2018-12-08 12:50:01</sys_updated_on>
+            <value>8</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>クローズして再試行</label>
+            <language>ja</language>
+            <name>x_58872_needit_needit</name>
+            <sequence>6</sequence>
+            <sys_created_by>f018037</sys_created_by>
+            <sys_created_on>2018-12-08 12:50:01</sys_created_on>
+            <sys_domain>849bf3d3dbca23007cf69026db96194d</sys_domain>
+            <sys_domain_path>!!!/!!)/</sys_domain_path>
+            <sys_id>f69fbe3cdb9ee3007cf69026db961998</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>f018037</sys_updated_by>
+            <sys_updated_on>2018-12-08 12:50:01</sys_updated_on>
+            <value>500</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>クローズして続行</label>
+            <language>ja</language>
+            <name>x_58872_needit_needit</name>
+            <sequence>7</sequence>
+            <sys_created_by>f018037</sys_created_by>
+            <sys_created_on>2018-12-08 12:50:01</sys_created_on>
+            <sys_domain>849bf3d3dbca23007cf69026db96194d</sys_domain>
+            <sys_domain_path>!!!/!!)/</sys_domain_path>
+            <sys_id>729fbe3cdb9ee3007cf69026db96199a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>f018037</sys_updated_by>
+            <sys_updated_on>2018-12-08 12:50:01</sys_updated_on>
+            <value>501</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>クローズして中止</label>
+            <language>ja</language>
+            <name>x_58872_needit_needit</name>
+            <sequence>8</sequence>
+            <sys_created_by>f018037</sys_created_by>
+            <sys_created_on>2018-12-08 12:50:01</sys_created_on>
+            <sys_domain>849bf3d3dbca23007cf69026db96194d</sys_domain>
+            <sys_domain_path>!!!/!!)/</sys_domain_path>
+            <sys_id>fa9fbe3cdb9ee3007cf69026db96199b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>f018037</sys_updated_by>
+            <sys_updated_on>2018-12-08 12:50:01</sys_updated_on>
+            <value>502</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <name>x_58872_needit_needit</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>f018037</sys_created_by>
+            <sys_created_on>2018-12-08 12:50:00</sys_created_on>
+            <sys_id>329fbe3cdb9ee3007cf69026db961985</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>state</sys_name>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_choice_x_58872_needit_needit_state</sys_update_name>
+            <sys_updated_by>f018037</sys_updated_by>
+            <sys_updated_on>2018-12-08 12:50:00</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
